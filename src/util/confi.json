@@ -1,0 +1,33 @@
+{
+    "title": "Homepage",
+    "description": "This is homepage description",
+
+    "theme": {
+        "primaryColor": "#4B4453",
+        "secondaryColor": "#AD5E00",
+        "accentColor": "#FBEAFF"
+      },
+    
+    "services": [
+        {
+            "title": "Sweet shop snacks",
+        "description": "Our delivery service is Sweet Shop Express, we understand your cravings for delightful treats, and we're dedicated to ensuring that you can enjoy our mouthwatering confections in the comfort of your home.",
+        "price": "₹ 2000"
+        },
+        {
+            "title": "Piiza hut",
+            "description": "Our special is pizza, you can take our special menus like cheeez pizza, corn pizza.",
+            "price": "₹ 140"
+        },
+        {
+            "title": "Burger King",
+        "description": "Our special is Burger, you can take our special menus like chiken burger, veg burger.",
+        "price": "₹ 2000"
+        },
+        {
+            "title": "chiken lollypops",
+        "description": "chiken lollypops is our special menus.",
+        "price": "₹ 5000"
+        }
+    ]
+}
